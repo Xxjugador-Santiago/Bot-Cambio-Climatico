@@ -1,0 +1,4 @@
+0 Freezer
+1 Microondas
+2 TV
+3 PC

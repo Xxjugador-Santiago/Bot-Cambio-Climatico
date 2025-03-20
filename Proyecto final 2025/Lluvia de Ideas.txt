@@ -1,0 +1,11 @@
+Solucion para resolver el cambio climatico
+1. El usuario ingresa a discord y envia una imagen de un espacio de su vida cotidiana al bot de discord, 
+	y una inteligencia artificial identifica objetos perjudiciales para el cambio climatico y otorga una solucion.
+2.
+
+enviar imagen -- bot clasifica la imagen y envia texto
+
+
+
+
+Las emisiones de dióxido de carbono (CO₂) son gases liberados principalmente por actividades humanas como la quema de combustibles fósiles (carbón, petróleo, gas) y la deforestación. Estas emisiones contribuyen al calentamiento global, atrapando el calor en la atmósfera y causando cambios climáticos. En cuanto a los efectos, afectan nuestro entorno aumentando las temperaturas globales, provocando fenómenos climáticos extremos, y elevando el nivel del mar. Además, impactan la biodiversidad, la agricultura y la salud humana debido a olas de calor, sequías, y peor calidad del aire. ¡Por eso reducirlas es clave!
